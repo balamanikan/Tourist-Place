@@ -1,0 +1,25 @@
+body{
+    background-image: url(./image22.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow ;
+    font-size: 50px;
+}
+
+#topic{
+    color: rgb(255, 0, 234);
+    font-size: large;
+}
+
+li{
+    color: rgba(255, 196, 0, 0.959);
+}
+marquee{
+    width: 450px;
+    margin-left: 375px;
+}
